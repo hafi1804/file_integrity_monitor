@@ -1,0 +1,8 @@
+This is a sample file used for File Integrity Monitoring.
+
+The purpose of this file is to demonstrate how cryptographic hashes can be used to detect unauthorized modifications.
+
+Author: M Hafiza
+Project: File Integrity Monitor
+
+This line was added after the baseline hash was created.
